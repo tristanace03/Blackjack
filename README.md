@@ -25,7 +25,7 @@ The Blackjack game is designed to simulate the card game where the objective is 
 - Aces can be worth 1 or 11, based on the context of the hand.
 - If either player or dealer exceeds 21, they bust and lose the round.
 
-#### Code Structure
+### Code Structure
 - Game.java: Contains the main logic for the Blackjack game, including methods for player and dealer actions, hand evaluation, and determining the winnter.
 - Card.java (nested within Game.java): Represents individual playing cards.
 - Deck.java (nested within Game.java): Represents a standard deck of 52 cards and includes methods for shuffling and drawing cards.
