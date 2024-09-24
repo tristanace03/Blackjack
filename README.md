@@ -7,10 +7,10 @@ Welcome to the Blackjack game implemented in Java! This program allows you to pl
 The Blackjack game is designed to simulate the card game where the objective is to beat the dealer by having a hand value that is as close to 21 as you can get without going over. The player can choose to hit (be dealt another card) or stand (keep their current hand). 
 
 ### Features
-- Player and dealer gameplay
-- Betting system to manage player money
-- Automatic hand evaluation
-- User-friendly command-line interface
+- Player and dealer gameplay.
+- Betting system to manage player money.
+- Automatic hand evaluation.
+- User-friendly command-line interface.
 
 ### How to Play
 1. Upon starting the game, you will be prompted to enter your name and the initial amount of money you wish to start with.
